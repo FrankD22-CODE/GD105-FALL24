@@ -10,3 +10,5 @@ textSize(100);
 
 // text overlay
 fill(#071EE3);
+textAlign( CENTER, CENTER);
+text("What are we doing today!" , 250, 250);
